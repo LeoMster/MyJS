@@ -1,0 +1,438 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    height: 170px;
+    margin: 0 auto;
+    background-color: white;
+}
+.inhead{
+    position: static;
+    width: 100%;
+    background-color: white;
+    z-index: 99;
+}
+.head1{
+    width: 1360px;
+    height: 40px;
+    margin: 0 auto;
+}
+a:link,a:visited{
+    text-decoration:none;
+    display: block; 
+}
+.right{
+    float:left;
+    height: 30px;
+    width: 874px;
+    padding-left: 380px;
+    margin-top: 10px;
+}
+.qq{
+    float: left;
+}
+.weixin{
+    float: left;
+    margin-left: 19px;
+}
+.weibo{
+    float: left;
+    margin-left: 19px;
+    color: gray;
+}
+.lo{
+    float: left;
+    margin-left: 19px;
+    color: gray;
+}
+.number{
+    float: left;
+    color: #ff4d04;
+    margin-left: 2px;
+}
+.head2{
+    width: 1360px;
+    height: 90px;
+    margin: 0 auto;
+}
+.logo03{
+    display: block;
+    float: left;
+}
+.input{
+    float: left;
+}
+.kuang{
+    height: 40px;
+    width: 600px;
+    margin-left: 108px;
+    margin-top: 15px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: 2px solid  #ff4d04;
+    color: gray;
+}
+.button{
+    margin-top: 15px;
+    background: #ff4d04;
+    height: 44px;
+    width: 84px;
+    color: white;
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.button1{
+    margin-left: 140px;
+    margin-top: 15px;
+    border:1px solid gray;
+    background: none;
+    height: 44px;
+    width: 88px;
+    border-radius: 5px;
+}
+.button2{
+    margin-top: 15px;
+    border:1px solid gray;
+    background: none;
+    height: 44px;
+    width: 88px;
+    border-radius: 5px;
+}
+.kefu{
+    float: left;
+    margin-left: 33px;
+    margin-right: 40px;
+    margin-top: 6px;
+}
+.button3{
+    margin-top: 15px;
+    border:1px solid gray;
+    height: 44px;
+    width: 88px;
+    border-radius: 5px;
+    background: #ff4d04;
+    color: white;
+}
+.youxiang{
+    float: left;
+    margin-left: 33px;
+    margin-right: 40px;
+    margin-top: 5px;
+}
+.a{
+    float: left;
+}
+.a1{
+    padding-left: 7px;
+    font-size: 13px;
+    color: #ff4d04;
+    float: left;
+    padding-right: 7px;
+}
+.a2{
+    padding-left: 7px;
+    font-size: 13px;
+    color: #cbb1d3;
+    float: left;
+    padding-right: 7px;
+}
+.a3{
+    padding-left: 7px;
+    font-size: 13px;
+    float: left;
+    padding-right: 7px;
+}
+.shuxian{
+    width:1px;
+    height:17px;
+    background:url(img/shuxian.jpg) 0px 0px;
+    display: block;
+}
+.head3{
+    width: 100%;
+    height: 40px;
+    margin: 0 auto;
+    background: #000000;
+}
+.ul1{
+    margin-left: 85px;
+}
+.ul1 li{
+    float: left;
+    list-style: none;
+    display: block;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+}
+.body{
+    height: 780px;
+    width: 100%;
+    background-color: #f8f7f6;
+}
+.inbody{
+    float: left;
+    height: 635px;
+    background-color: white;
+    width: 1180px;
+    margin-left: 80px;
+}
+.body1{
+    width: 824px;
+    height: 412px;
+    position: relative;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.img1{
+    width: 408px;
+    height: 408px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border:2px solid #ccc;
+}
+.slider{
+    width:150px;
+    height: 150px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #ccc;
+    opacity:0.4;
+    cursor: move;
+    display: none;
+    filter: alpha(opacity=40);
+}
+.img2{
+    z-index: 98;
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+    width: 408px;
+    height: 408px;
+    overflow: hidden;
+    border:2px solid #ccc;
+}
+.bimg{
+    position: absolute;
+    left: 0;
+    top:0;
+}
+.body3{
+    width: 316px;
+    height:428px;
+    float: right;
+    margin-bottom:413px; 
+}
+.inbody2{
+    float: left;
+    height: 620px;
+    width: 180px;
+    margin-left: 8px;
+    background: white;
+}
+.inbody3{
+    height: 100px;
+    width: 1360px;
+    margin: 0 auto;
+}
+.inbody11{
+    float:left;
+    height: 635px;
+    width: 450px;
+}
+.inbody22{
+    position: relative;
+    float:left;
+    width: 666px;
+    height: 428px;
+    margin-left: 15px;
+    margin-top: 15px;
+    background: white;
+}
+.but1{
+    border: 2px solid #ff0754;
+    height: 30px;
+    width: 60px;
+    background: url(img/duigou.png) no-repeat 44px 13px;
+    outline: none;
+}
+.but1 img{
+    margin-top: 17px;
+    margin-left: 47px;
+}
+.but2{
+    border: none;
+    background: none;
+    height: 30px;
+    width: 60px;
+    outline: none;
+}
+.ppp{
+    display: block;
+    width: 666px;
+    height: 30px;
+}
+.dec{
+    float: left;
+    display: block;
+    width: 28px;
+    height: 28px;
+    margin-left: 50px;
+    border: 1px solid #ccc;
+}
+.dec button{
+    width: 28px;
+    height: 28px;
+    background: none;
+    border: none;
+    cursor:not-allowed;
+    outline: none;
+}
+.add{
+    float: left;
+    display: block;
+    width: 28px;
+    height: 28px;
+    border: 1px solid #ccc;
+}
+.add button{
+    width: 28px;
+    height: 28px;
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.tail{
+    height:180px;
+    width: 100%;
+    background-color:#f8f7f6;
+}
+.intail{
+    width: 1360px;
+    height: 180px;
+    margin: 0 auto;
+}
+.tail1{
+    float: left;
+    height: 180px;
+    width: 150px;
+}
+.tail2{
+    float: left;
+    height: 180px;
+    width: 1210px;
+}
+.tail21{
+    float: left;
+    width: 810px;
+    height: 180px;
+}
+.tail22{
+    float: left;
+    width: 400px;
+    height:180px;
+}
+.tail21 ul{
+    display: float;
+    float: left;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.tail21 li{
+    list-style: none;
+    margin-top: 15px;
+    font-size: 13px;
+}
+.tail21 a{
+    color: gray;
+}
+.last{
+    height: 165px;
+    width: 100%;
+    background-color:#f8f7f6;
+}
+.inlast{
+    height: 165px;
+    margin: 0 auto;
+    width: 1360px;
+}
+.p1{
+    margin-left: 300px;
+}
+.inlat a{
+    float: left;
+}
+.wei{
+    padding-left: 10px;
+    font-size: 13px;
+    color: black;
+    float: left;
+    padding-right: 10px;
+}
+.p2{
+    font-size: 13px;
+    color: gray;
+    margin-left: 360px;
+}
+.p3{
+    font-size: 13px;
+    color: gray;
+    margin-left:100px;
+}
+.p4{
+    font-size: 13px;
+    color: gray;
+    margin-left:510px;
+}
+.p5{
+    margin-top: 5px;
+    margin-left:275px;
+}
+.bg{
+    top: 0%; 
+	left: 0%; 
+	width: 100%; 
+    height: 1295px; 
+    position: absolute;
+    display: block;
+}
+.sl{
+    background-color: black;
+    z-index: 1000;
+    width:100%;
+    height: 1295px;
+    display: none;
+    position: absolute; 
+    left:0%;
+    top:0%;
+    background: rgba(0,0,0,0.5);
+}
+.meng{
+    z-index: 1001;
+    width: 400px;
+    height:208px;
+    border: 2px solid #aca9d3;
+    margin-top: 300px;
+    margin-left: 559.7px; 
+    position: fixed;
+    background: white;
+}
+.meng button{
+    width:148px;
+    height: 40px;
+    background: none;
+    border: 1px solid #fe0d4a;
+    color: #fe0d4a;
+    font-weight: bold;
+    font-size: 20px;
+    outline: none;
+    border-radius: 5px;
+}

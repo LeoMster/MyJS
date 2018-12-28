@@ -1,0 +1,516 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    height: 170px;
+    margin: 0 auto;
+    background-color: white;
+    position: relative;
+}
+.inhead{
+    z-index: 99;
+    position: relative;
+    width: 100%;
+    background-color: white;
+}
+.head1{
+    width: 1360px;
+    height: 40px;
+    margin: 0 auto;
+}
+a:link,a:visited{
+    text-decoration:none;
+    display: block; 
+}
+.right{
+    float:left;
+    height: 30px;
+    width: 874px;
+    padding-left: 380px;
+    margin-top: 10px;
+}
+.qq{
+    float: left;
+}
+.weixin{
+    float: left;
+    margin-left: 19px;
+}
+.weibo{
+    float: left;
+    margin-left: 19px;
+    color: gray;
+}
+.lo{
+    float: left;
+    margin-left: 19px;
+    color: gray;
+}
+.number{
+    float: left;
+    color: #ff4d04;
+    margin-left: 2px;
+}
+.head2{
+    width: 1360px;
+    height: 90px;
+    margin: 0 auto;
+}
+.logo03{
+    display: block;
+    float: left;
+}
+.input{
+    float: left;
+}
+.kuang{
+    height: 40px;
+    width: 600px;
+    margin-left: 108px;
+    margin-top: 15px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: 2px solid  #ff4d04;
+    color: gray;
+}
+.button{
+    margin-top: 15px;
+    background: #ff4d04;
+    height: 44px;
+    width: 84px;
+    color: white;
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.button1{
+    margin-left: 140px;
+    margin-top: 15px;
+    border:1px solid gray;
+    background: none;
+    height: 44px;
+    width: 88px;
+    border-radius: 5px;
+}
+.button2{
+    margin-top: 15px;
+    border:1px solid gray;
+    background: none;
+    height: 44px;
+    width: 88px;
+    border-radius: 5px;
+}
+.kefu{
+    float: left;
+    margin-left: 33px;
+    margin-right: 40px;
+    margin-top: 6px;
+}
+.button3{
+    margin-top: 15px;
+    border:1px solid gray;
+    height: 44px;
+    width: 88px;
+    border-radius: 5px;
+    background: #ff4d04;
+    color: white;
+}
+.youxiang{
+    float: left;
+    margin-left: 33px;
+    margin-right: 40px;
+    margin-top: 5px;
+}
+.a{
+    float: left;
+}
+.a1{
+    padding-left: 7px;
+    font-size: 13px;
+    color: #ff4d04;
+    float: left;
+    padding-right: 7px;
+}
+.a2{
+    padding-left: 7px;
+    font-size: 13px;
+    color: #cbb1d3;
+    float: left;
+    padding-right: 7px;
+}
+.a3{
+    padding-left: 7px;
+    font-size: 13px;
+    float: left;
+    padding-right: 7px;
+}
+.shuxian{
+    width:1px;
+    height:17px;
+    background:url(img/shuxian.jpg) 0px 0px;
+    display: block;
+}
+.head3{
+    width: 1360px;
+    height: 40px;
+    margin: 0 auto;
+}
+.ul1 li{
+    float: left;
+    list-style: none;
+    display: block;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+.body{
+    height: 547px;
+    width: 100%;
+    border-top: 1px solid #ff4d04;
+    background-color: #f8f7f6;
+}
+.inbody{
+    height: 547px;
+    background-color: white;
+    width: 1360px;
+    margin: 0 auto;
+}
+.body1{
+    width: 150px;
+    height: 547px;
+    float: left;
+}
+.body11{
+    float: left;
+    width: 28px;
+    height: 424px;
+    background: #4c4c4a;
+}
+.body12{
+    float: left;
+    width: 122px;
+    height: 424px;
+}
+.inbody12{
+    width: 112px;
+    height: 408px;
+    margin-left:10px;
+    margin-bottom: 16px;
+}
+.ul2{
+    display: block;
+    float: left;
+}
+.ul2 li{
+    list-style: none;
+    display: block;
+    margin-top: 18px;
+    font-size: 10px;
+}
+.ul2 li a{
+    color: black;
+}
+.ul3{
+    display: block;
+    float: left;
+    margin-left: 8px;
+}
+.ul3 li{
+    list-style: none;
+    display: block;
+    margin-top: 18px;
+    font-size: 10px;
+}
+.ul3 li a{
+    color: black;
+}
+.ul4{
+    display: block;
+    float: left;
+    margin-left: 8px;
+}
+.ul4 li{
+    list-style: none;
+    display: block;
+    margin-top: 18px;
+    font-size: 10px;
+}
+.ul4 li a{
+    color: black;
+}
+.ul5{
+    display: block;
+    float: left;
+    margin-left: 8px;
+}
+.ul5 li{
+    list-style: none;
+    display: block;
+    margin-top: 18px;
+    font-size: 10px;
+}
+.ul5 li a{
+    color: black;
+}
+.body13{
+    float: left;
+    height: 122px;
+    width: 150px;
+    border-top: 1px solid #ff4d04;
+}
+.body13 p{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.body span{
+    float: left;
+}
+.body a{
+    font-size: 10px;
+    color: gray;
+}
+.body2{
+    float: left;
+    height: 544px;
+    width:802px;
+}
+.body21{
+    float: left;
+    height: 361px;
+    border-right:2px solid #ff4d04;
+    position: relative;
+    overflow: hidden;
+    width: 800px;
+}
+.box{
+    float:left;
+    height: 361px; 
+    position: relative;
+    width: 6400px;
+    left: -800px;
+}
+.body21 span{
+    display: block;
+    cursor: pointer;
+    top: 150px;
+    position: absolute;
+    opacity: 0;
+}
+.le{
+    left: 10px;
+    opacity: 0;
+}
+.ri{
+    right: 10px;
+    opacity: 0;
+}
+.inbox{
+    float: left;
+    height: 361px; 
+    overflow: hidden;
+    width: 800px;
+}
+.nav{
+    position: absolute;
+    bottom: 20px;
+    left: 280px;
+}
+.nav li{
+    float: left;
+    width: 20px;
+    height: 20px;
+    background: #ccc;
+    cursor: pointer;
+    margin: 0 10px;
+    border-radius: 50%;
+    list-style: none;
+}
+.nav .active{
+    background: #ff4d04;
+}
+.body22{
+    float: left;
+    height: 182px;
+    border-top:1px solid #ff4d04;
+    border-right:2px solid #ff4d04;
+    width: 800px;
+}
+.body22 a{
+   float: left;
+}
+.body3{
+    float: left;
+    height: 547px;
+    width: 370px;
+}
+.body31{
+    float: left;
+    width:370px;
+    height:43px;
+}
+.body32{
+    float: left;
+    width:370px;
+    height:319px;
+}
+.hr{
+    width:370px;
+}
+.inbody32{
+    position: relative;
+    width: 340px;
+    height: 319px;
+    top:0px;
+    left:30px;
+    overflow: hidden;
+}
+.lu{
+    display: block;
+    position: relative;
+    height: 377px;
+    width: 340px;
+    list-style: none;
+    font-weight: bold;
+}
+.lu2{
+    display: block;
+    position: relative;
+    height: 377px;
+    width: 340px;
+    list-style: none;
+    font-weight: bold;
+}
+.lu li{
+    display: block;
+    position: relative;
+    height: 29px;
+}
+.lu2 li{
+    display: block;
+    position: relative;
+    height: 29px;
+}
+.inbody32 li a{
+    color: #ff4d04;
+    font-size: 16px;
+    position: relative;
+}
+.tail{
+    height:180px;
+    width: 100%;
+    background-color:#f8f7f6;
+}
+.intail{
+    width: 1360px;
+    height: 180px;
+    margin: 0 auto;
+}
+.tail1{
+    float: left;
+    height: 180px;
+    width: 150px;
+}
+.tail2{
+    float: left;
+    height: 180px;
+    width: 1210px;
+}
+.tail21{
+    float: left;
+    width: 810px;
+    height: 180px;
+}
+.tail22{
+    float: left;
+    width: 400px;
+    height:180px;
+}
+.tail21 ul{
+    display: float;
+    float: left;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.tail21 li{
+    list-style: none;
+    margin-top: 15px;
+    font-size: 13px;
+}
+.tail21 a{
+    color: gray;
+}
+.last{
+    height: 165px;
+    width: 100%;
+    background-color:#f8f7f6;
+}
+.inlast{
+    height: 165px;
+    margin: 0 auto;
+    width: 1360px;
+}
+.p1{
+    margin-left: 300px;
+}
+.inlat a{
+    float: left;
+}
+.wei{
+    padding-left: 10px;
+    font-size: 13px;
+    color: black;
+    float: left;
+    padding-right: 10px;
+}
+.p2{
+    font-size: 13px;
+    color: gray;
+    margin-left: 360px;
+}
+.p3{
+    font-size: 13px;
+    color: gray;
+    margin-left:100px;
+}
+.p4{
+    font-size: 13px;
+    color: gray;
+    margin-left:510px;
+}
+.p5{
+    margin-top: 5px;
+    margin-left:275px;
+}
+.inright{
+    z-index: 100;
+    position: fixed;
+    top: 65px;
+    left:1396.2px;
+    width:123px;
+    height: 545px;
+    overflow: hidden;
+}
+.i3{
+    width: 123px;
+    height: 140px;
+    margin-top: 5px;
+    background: #ff9260;
+}
+.i4{
+    width: 123px;
+    height: 140px;
+    margin-top: 5px;
+    background: #ff9260;
+}
+.i5{
+    width: 123px;
+    height: 140px;
+    margin-top: 5px;
+    background: #ff9260;
+}
+.inright img{
+    position:relative;
+    display: block;
+}
